@@ -10,4 +10,8 @@
 
 Previously at **JPMorganChase** and **Immuta**
 
+📄 You can view my resume [here](https://github.com/e-savar/e-savar/blob/main/EthanSavarRepoResume.pdf).
+
+Always happy to connect!
+
 
