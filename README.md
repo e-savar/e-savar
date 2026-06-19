@@ -6,6 +6,8 @@
 
 🎓 Alum of The Ohio State University, Double Major in CSE, Mathematics 🔢
 
+🏆 Data For Good (NYC) 2025 Hackathon First Place Winner 🥇
+
 Previously at **JPMorganChase** and **Immuta**
 
 
