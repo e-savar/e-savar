@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi, I'm Ethan 👋
 
-My name is Ethan, and I am a Masters student in Computer Science at New York University through the Courant Institute of Mathematical Sciences. I am currently working as a Software Engineer Intern at **Capital One**.
+📚 Current Masters student at NYU in Computer Science 🗽
 
-I previously interned as a Software Engineer Intern at **JPMorganChase**, and as a Research Engineer at **Immuta**.
+💻 Software Engineer Intern at **Capital One**. 🏛️
 
-During my undergraduate I went to The Ohio State University (go Buckeyes!) and won first place in JPMorganChase's Data for Good (NYC) Hackathon in 2025.
+🎓 Alum of The Ohio State University, Double Major in CSE, Mathematics 🔢
+
+Previously at **JPMorganChase** and **Immuta**
+
+
