@@ -2,13 +2,13 @@
 
 📚 Current Masters student at NYU in Computer Science 🗽
 
-💻 Software Engineer Intern at **Capital One** 🏛️
+💻 Software Engineer Intern at **Amazon** 📦
 
 🎓 Alum of The Ohio State University, Double Major in CSE, Mathematics 🔢
 
 🏆 Data For Good (NYC) 2025 Hackathon First Place Winner 🥇
 
-Previously at **JPMorganChase** and **Immuta**
+Previously at **Capital One**, **JPMorganChase** and **Immuta**
 
 📄 You can view my resume [here](https://github.com/e-savar/e-savar/blob/main/ResumeEthanSavar.pdf).
 
